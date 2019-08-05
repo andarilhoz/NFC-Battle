@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504874167963",
+    "firebase_url": "https://nfc-battle.firebaseio.com",
+    "project_id": "nfc-battle",
+    "storage_bucket": "nfc-battle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504874167963:android:54353c740066fd30",
+        "android_client_info": {
+          "package_name": "com.magno.nfcbattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504874167963-is5ip05kqgcjo4f51sldg6bv9osp9vi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuUS5-CASJpMrAlM4TRiLhUIP-TLK2FMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504874167963-is5ip05kqgcjo4f51sldg6bv9osp9vi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
